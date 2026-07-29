@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /conta
+Disallow: /checkout
+Disallow: /carrinho
+Disallow: /erro
+Disallow: /acesso-negado
+Disallow: /sessao-expirada
+Disallow: /manutencao
+Disallow: /pagamento-erro
+
+Sitemap: https://bambole.lovable.app/sitemap.xml
